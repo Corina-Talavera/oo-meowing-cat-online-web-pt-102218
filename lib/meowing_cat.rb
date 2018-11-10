@@ -8,3 +8,7 @@ maru.name
 maru.meow
 # "meow!"
 # => nil
+
+class Cat
+  attr_accessor :name
+end
